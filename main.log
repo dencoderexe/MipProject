@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.10.7)  7 OCT 2023 18:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.10.7)  7 OCT 2023 21:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -196,8 +196,7 @@ Package: cite 2015/02/27  v 5.5
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count274
 \l__pdf_internal_box=\box51
-)
-No file main.aux.
+) (main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
@@ -220,7 +219,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
 LaTeX Font Info:    ... okay on input line 30.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
 LaTeX Font Info:    ... okay on input line 30.
-(C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+ (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count275
 \scratchdimen=\dimen148
@@ -240,6 +239,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring OFF on input line 30.
+ (main.out) (main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
@@ -257,37 +257,32 @@ File: il2cmtt.fd 1997/08/20 CSLaTeX font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 33.
+ (main.bbl
 
-No file main.bbl.
-[1
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
+
+) [1
 
 {C:/Users/alabi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (main.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D5B5AC65C235E3687D6DFBA15056BE67;66.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: D5B5AC65C235E3687D6DFBA15056BE67;66.
  ) 
 Here is how much of TeX's memory you used:
- 10043 strings out of 475248
- 159074 string characters out of 5757813
- 1921785 words of memory out of 5000000
- 31450 multiletter control sequences out of 15000+600000
+ 10059 strings out of 475248
+ 159378 string characters out of 5757813
+ 1922785 words of memory out of 5000000
+ 31456 multiletter control sequences out of 15000+600000
  567826 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,7n,79p,256b,485s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\alabi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr10.pk> <C:\Users\alabi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr8.pk> <C:\Users\alabi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\alabi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi720\csbx12.pk> <C:\Users\alabi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx9.pk> <C:\Users\alabi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt9.pk> <C:\Users\alabi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr9.pk> <C:\Users\alabi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr12.pk> <C:\Users\alabi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\alabi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr17.pk>
-Output written on main.pdf (1 page, 39629 bytes).
+Output written on main.pdf (1 page, 42453 bytes).
 PDF statistics:
- 153 PDF objects out of 1000 (max. 8388607)
- 3 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 166 PDF objects out of 1000 (max. 8388607)
+ 4 named destinations out of 1000 (max. 500000)
+ 9 words of extra memory for PDF output out of 10000 (max. 10000000)
 
