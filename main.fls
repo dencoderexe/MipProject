@@ -152,6 +152,7 @@ INPUT C:\Users\alabi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\csr8
 INPUT C:\Users\alabi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\csr6.tfm
 INPUT C:\Users\alabi\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm0600.tfm
 INPUT C:\Users\alabi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\csbx9.tfm
+INPUT C:\Users\alabi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\csbx10.tfm
 INPUT C:\Users\alabi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\csr12.tfm
 INPUT C:\Users\alabi\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\csbx12.tfm
 INPUT .\main.bbl
@@ -169,6 +170,8 @@ INPUT C:\Users\alabi\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcr
 INPUT C:\Users\alabi\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm0600.pk
 INPUT C:\Users\alabi\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi720\csbx12.pk
 INPUT C:\Users\alabi\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi720\csbx12.pk
+INPUT C:\Users\alabi\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csbx10.pk
+INPUT C:\Users\alabi\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csbx10.pk
 INPUT C:\Users\alabi\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csbx9.pk
 INPUT C:\Users\alabi\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csbx9.pk
 INPUT C:\Users\alabi\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\cstt9.pk

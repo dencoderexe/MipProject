@@ -1,16 +1,17 @@
 # Fdb version 4
-["bibtex main"] 0 "main.aux" "main.bbl" "main" 1696768487 -1
+["bibtex main"] 0 "main.aux" "main.bbl" "main" 1696877992 -1
   "C:/Users/alabi/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291868336 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
   "literatura.bib" 0 -1 0 ""
-  "main.aux" 1696768486 1002 a12493ceb73c4a96240fc948ace03581 "pdflatex"
+  "main.aux" 1696877991 1002 a12493ceb73c4a96240fc948ace03581 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1696768486 "d:/Projects/MipProject/main.tex" "main.pdf" "main" 1696768487 0
+["pdflatex"] 1696877990 "d:/Projects/MipProject/main.tex" "main.pdf" "main" 1696877992 0
   "C:/Users/alabi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1696697919 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/alabi/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm0600.pk" 1696697924 7284 253eff1ee0e7e5edb69c390e269c1c88 ""
   "C:/Users/alabi/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1696697932 14064 87590485b013c4f0df6f1420cba9543f ""
+  "C:/Users/alabi/AppData/Local/MiKTeX/fonts/pk/ljfour/public/csfonts/dpi600/csbx10.pk" 1696762201 17552 96e991cfe804a255d9a1f8c7b5396195 ""
   "C:/Users/alabi/AppData/Local/MiKTeX/fonts/pk/ljfour/public/csfonts/dpi600/csbx9.pk" 1696697927 15420 9daceb2b37225eda9b2c7e585219edbd ""
   "C:/Users/alabi/AppData/Local/MiKTeX/fonts/pk/ljfour/public/csfonts/dpi600/csr10.pk" 1696697922 16492 35769b18f265edb1d12dfc2bc295f9a5 ""
   "C:/Users/alabi/AppData/Local/MiKTeX/fonts/pk/ljfour/public/csfonts/dpi600/csr12.pk" 1696697931 19848 4393f88cbd75a488029ac52626a995b0 ""
@@ -32,6 +33,7 @@
   "C:/Users/alabi/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "C:/Users/alabi/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/Users/alabi/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
+  "C:/Users/alabi/AppData/Local/Programs/MiKTeX/fonts/tfm/public/csfonts/csbx10.tfm" 867746694 2408 78bb3ddbba8908948834361c75061051 ""
   "C:/Users/alabi/AppData/Local/Programs/MiKTeX/fonts/tfm/public/csfonts/csbx12.tfm" 867746696 2400 14c727257338e2e5de1c37661f5477cd ""
   "C:/Users/alabi/AppData/Local/Programs/MiKTeX/fonts/tfm/public/csfonts/csbx9.tfm" 867746712 2404 b1585c242144a333d557a9963bcedbbf ""
   "C:/Users/alabi/AppData/Local/Programs/MiKTeX/fonts/tfm/public/csfonts/csr10.tfm" 867746808 2376 bd510ae68174fd90e2d8cf97109f05fe ""
@@ -94,11 +96,11 @@
   "C:/Users/alabi/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576437552 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/alabi/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/alabi/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "d:/Projects/MipProject/main.tex" 1696768485 2248 0d0b52cb74fbaac6df74efde9f0c2ec8 ""
-  "main.aux" 1696768486 1002 a12493ceb73c4a96240fc948ace03581 "pdflatex"
+  "d:/Projects/MipProject/main.tex" 1696877989 2986 64be19d638910941dbd31c4ff3300387 ""
+  "main.aux" 1696877991 1002 a12493ceb73c4a96240fc948ace03581 "pdflatex"
   "main.bbl" 1696698763 52 0eba253fc001332e731e8aba3f23127b "bibtex main"
-  "main.out" 1696768486 137 592551e8b24d23c68ea6c7f8bcb2cb97 "pdflatex"
-  "main.tex" 1696768485 2248 0d0b52cb74fbaac6df74efde9f0c2ec8 ""
+  "main.out" 1696877991 137 592551e8b24d23c68ea6c7f8bcb2cb97 "pdflatex"
+  "main.tex" 1696877989 2986 64be19d638910941dbd31c4ff3300387 ""
   (generated)
   "main.aux"
   "main.log"
