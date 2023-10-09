@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1696708476 "main.aux" "main.bbl" "main" 1696708478 0
+["bibtex main"] 0 "main.aux" "main.bbl" "main" 1696768487 -1
   "C:/Users/alabi/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291868336 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
   "literatura.bib" 0 -1 0 ""
-  "main.aux" 1696708477 853 b75433854fbb32c1b2e699d478ddc012 "pdflatex"
+  "main.aux" 1696768486 1002 a12493ceb73c4a96240fc948ace03581 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1696708476 "d:/Projects/MipProject/main.tex" "main.pdf" "main" 1696708478 0
+["pdflatex"] 1696768486 "d:/Projects/MipProject/main.tex" "main.pdf" "main" 1696768487 0
   "C:/Users/alabi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1696697919 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/alabi/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm0600.pk" 1696697924 7284 253eff1ee0e7e5edb69c390e269c1c88 ""
   "C:/Users/alabi/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1696697932 14064 87590485b013c4f0df6f1420cba9543f ""
@@ -94,11 +94,11 @@
   "C:/Users/alabi/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576437552 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/alabi/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/alabi/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "d:/Projects/MipProject/main.tex" 1696708029 1210 b2657a46b8162b7485b0e8ee46b501ec ""
-  "main.aux" 1696708477 853 b75433854fbb32c1b2e699d478ddc012 "pdflatex"
+  "d:/Projects/MipProject/main.tex" 1696768485 2248 0d0b52cb74fbaac6df74efde9f0c2ec8 ""
+  "main.aux" 1696768486 1002 a12493ceb73c4a96240fc948ace03581 "pdflatex"
   "main.bbl" 1696698763 52 0eba253fc001332e731e8aba3f23127b "bibtex main"
-  "main.out" 1696708477 66 d5b5ac65c235e3687d6dfba15056be67 "pdflatex"
-  "main.tex" 1696708029 1210 b2657a46b8162b7485b0e8ee46b501ec ""
+  "main.out" 1696768486 137 592551e8b24d23c68ea6c7f8bcb2cb97 "pdflatex"
+  "main.tex" 1696768485 2248 0d0b52cb74fbaac6df74efde9f0c2ec8 ""
   (generated)
   "main.aux"
   "main.log"
