@@ -1,0 +1,17 @@
+\begin{thebibliography}{1}
+
+\bibitem{Chapman2017}
+Carl Chapman, Peipei Wang, and Kathryn~T. Stolee.
+\newblock Exploring regular expression comprehension.
+\newblock In {\em 2017 32nd {IEEE}/{ACM} International Conference on Automated
+  Software Engineering ({ASE})}. {IEEE}, October 2017.
+
+\bibitem{Michael2019}
+Louis~G. Michael, James Donohue, James~C. Davis, Dongyoon Lee, and Francisco
+  Servant.
+\newblock Regexes are hard: Decision-making, difficulties, and risks in
+  programming regular expressions.
+\newblock In {\em 2019 34th {IEEE}/{ACM} International Conference on Automated
+  Software Engineering ({ASE})}. {IEEE}, November 2019.
+
+\end{thebibliography}
