@@ -1,5 +1,11 @@
 \begin{thebibliography}{1}
 
+\bibitem{Chapman2016}
+Carl Chapman and Kathryn~T. Stolee.
+\newblock Exploring regular expression usage and context in python.
+\newblock In {\em Proceedings of the 25th International Symposium on Software
+  Testing and Analysis}. {ACM}, July 2016.
+
 \bibitem{Chapman2017}
 Carl Chapman, Peipei Wang, and Kathryn~T. Stolee.
 \newblock Exploring regular expression comprehension.
@@ -13,5 +19,18 @@ Louis~G. Michael, James Donohue, James~C. Davis, Dongyoon Lee, and Francisco
   programming regular expressions.
 \newblock In {\em 2019 34th {IEEE}/{ACM} International Conference on Automated
   Software Engineering ({ASE})}. {IEEE}, November 2019.
+
+\bibitem{Wang2019}
+Peipei Wang, Gina~R. Bai, and Kathryn~T. Stolee.
+\newblock Exploring regular expression evolution.
+\newblock In {\em 2019 {IEEE} 26th International Conference on Software
+  Analysis, Evolution and Reengineering ({SANER})}. {IEEE}, February 2019.
+
+\bibitem{Wang2018}
+Peipei Wang and Kathryn~T. Stolee.
+\newblock How well are regular expressions tested in the wild?
+\newblock In {\em Proceedings of the 2018 26th {ACM} Joint Meeting on European
+  Software Engineering Conference and Symposium on the Foundations of Software
+  Engineering}. {ACM}, October 2018.
 
 \end{thebibliography}

@@ -9,7 +9,6 @@
 \usepackage{graphicx}
 \usepackage{url} % príkaz \url na formátovanie URL
 \usepackage{hyperref} % odkazy v texte budú aktívne (pri niektorých triedach dokumentov spôsobuje posun textu)
-
 \usepackage{cite}
 %\usepackage{times}
 
@@ -23,7 +22,7 @@
 	{\small \texttt{xdanilovd@stuba.sk}}
 	}
 
-\date{\small 5. október 2023} % upravte
+\date{\small \today} % upravte
 
 
 
@@ -32,13 +31,13 @@
 \maketitle
 
 \begin{abstract}
-	Regulárne výrazy, často známe ako regex, je formálny jazyk, ktorý sa používa na priraďovanie textových vzorov. Používanie regexov pomáha rýchlo a presne nájsť a extrahovať kľúčové informácie z veľkých objemov textu. Môžu Vám doslova pomôcť nájsť ihlu v kope sena, čo organizáciám umožňuje presmerovať svoje ľudské zdroje do iných oblastí. Regexy sú obzvlášť užitočné na definovanie filtrov, pretože obsahujú postupnosť znakov, ktoré definujú vzor textu, ktorý sa má zhodovať.
+Regulárne výrazy, často známe ako regex, je formálny jazyk, ktorý sa používa na priraďovanie textových vzorov. Používanie regexov pomáha rýchlo a presne nájsť a extrahovať kľúčové informácie z veľkých objemov textu. Môžu Vám doslova pomôcť nájsť ihlu v kope sena, čo organizáciám umožňuje presmerovať svoje ľudské zdroje do iných oblastí. Regexy sú obzvlášť užitočné na definovanie filtrov, pretože obsahujú postupnosť znakov, ktoré definujú vzor textu, ktorý sa má zhodovať.
 	
-	Cieľom tejto práce je preskúmať, ako sa regulárne výrazy často používajú v praxi, identifikovať problémy a ťažkosti, s ktorými sa programátori stretávajú pri písaní a používaní regulárnych výrazov.
+Cieľom tejto práce je preskúmať, ako sa regulárne výrazy často používajú v praxi, identifikovať problémy a ťažkosti, s ktorými sa programátori stretávajú pri písaní a používaní regulárnych výrazov.
 	
-	Metódami na dosiahnutie cieľa bude analýza prieskumu medzi vývojármi a údajov o používaní regulárnych výrazov v otvorených projektoch na GitHub.
+Metódami na dosiahnutie cieľa bude analýza prieskumu medzi vývojármi a údajov o používaní regulárnych výrazov v otvorených projektoch na GitHub.
 	
-	Tento článok jasne ukáže výhody používania regulárnych výrazov, ako aj osvedčené postupy pri ich písaní.
+Tento článok jasne ukáže výhody používania regulárnych výrazov, ako aj osvedčené postupy pri ich písaní.
 
 	%\subsubsection*{Primárne zdroje:}
 	%	\href{https://ieeexplore.ieee.org/document/8952499}{Regexes are Hard: Decision-Making, Difficulties, and Risks in Programming Regular Expressions}\\
@@ -49,27 +48,32 @@
 
 
 \section{Úvod}
-	Regulárne výrazy, tiež známe ako regulárne výrazy, sú nástrojom na spracovanie textu, ktorý je integrovaný do všetkých súčasných programovacích jazykov a bežne používaných utilít, ako sú textové editory.
-	Regulárne výrazy sa používajú pri úlohách vyhľadávania a nahrádzania reťazcov, ako je vyhľadávanie slov, úprava textu, analýza súborov. \cite{Chapman2017}
-	Odhady naznačujú, že viac ako tretina projektov JavaScript a Python obsahuje aspoň jeden regulárny výraz. \cite{Michael2019}
-	Tento článok je určený na to, aby vám pomohol pochopiť a efektívne používať regulárne výrazy. 
-	Začneme základnými pojmami a postupne prejdeme k pokročilejším príkladom.\\
+Regulárne výrazy, tiež známe ako Regexy, sú nástrojom na spracovanie textu, ktorý je integrovaný do všetkých súčasných programovacích jazykov a bežne používaných utilít, ako sú textové editory. Regulárne výrazy sa používajú pri úlohách vyhľadávania a nahrádzania reťazcov, ako je vyhľadávanie slov, úprava textu a analýza súborov. \cite{Chapman2017}
+Odhady naznačujú, že viac ako tretina projektov JavaScript a Python obsahuje aspoň jeden regulárny výraz. \cite{Michael2019}
+Pochopenie a písanie regulárnych výrazov si vyžaduje znalosti aj zručnosti. \cite{Chapman2016}
+Jediná chyba v znaku môže spôsobiť drasticky odlišné správanie regulárneho výrazu pri porovnávaní. \cite{Wang2019}
+However, over 80\% of regular expressions written in GitHub projects are not tested \cite{Wang2018}, indicating that developers either do not test regular expressions or use external tools rather than test cases. \cite{Wang2019} Tento článok je určený na to, aby vám pomohol pochopiť a efektívne používať regulárne výrazy.  Začneme základnými pojmami a postupne prejdeme k pokročilejším príkladom.
+Regulárne výrazy sú široko používané v rôznych oblastiach výpočtovej techniky. Tu je niekoľko bežných prípadov použitia:
+\begin{enumerate}
+	\item Analýza protokolov: Regulárne výrazy možno použiť na extrahovanie špecifických častí informácií zo systémových alebo aplikačných protokolov.
+	\item Overenie údajov: Môžu sa použiť na overenie formátu vstupných údajov, ako sú e-mailové adresy, telefónne čísla a ID používateľov.
+	\item Hľadať a nahradiť: Regulárne výrazy možno použiť na nájdenie a nahradenie konkrétnych vzorov v texte alebo kódovej základni.
+	\item Premenovanie súborov: Môžu sa použiť na dávkové premenovanie súborov na základe určitých vzorov.
+	\item Analýza vstupu používateľa: Regulárne výrazy možno použiť na analýzu vstupu používateľa alebo príkazových riadkov.
+	\item Čítanie konfiguračných súborov: Môžu sa použiť na čítanie a analýzu konfiguračných súborov.
+\end{enumerate}
 
-	Regulárne výrazy sú široko používané v rôznych oblastiach výpočtovej techniky. Tu je niekoľko bežných prípadov použitia:
-	\begin{enumerate}
-		\item Analýza protokolov: Regulárne výrazy možno použiť na extrahovanie špecifických častí informácií zo systémových alebo aplikačných protokolov.
-		\item Overenie údajov: Môžu sa použiť na overenie formátu vstupných údajov, ako sú e-mailové adresy, telefónne čísla a ID používateľov.
-		\item Hľadať a nahradiť: Regulárne výrazy možno použiť na nájdenie a nahradenie konkrétnych vzorov v texte alebo kódovej základni.
-		\item Premenovanie súborov: Môžu sa použiť na dávkové premenovanie súborov na základe určitých vzorov.
-		\item Analýza vstupu používateľa: Regulárne výrazy možno použiť na analýzu vstupu používateľa alebo príkazových riadkov.
-		\item Čítanie konfiguračných súborov: Môžu sa použiť na čítanie a analýzu konfiguračných súborov.
-	\end{enumerate}
-	
+\section{Ekvivalencia regulárnych výrazov}
+Regulárny výraz je jazyk na opis množiny reťazcov, ktorým môže zodpovedať, a zvyčajne existuje viac ako jeden spôsob jeho vyjadrenia. 
+Napríklad číslicu možno opísať ako rozsah znakov [0-9] a možno ju opísať aj pomocou skratky \ d. Znak slova vyjadrený skratkou \ je ekvivalentný [A-Za-z-0-9].
+Niekedy si hlásenia o chybách vyžadujú riešenie pomocou transformácií zachovávajúcich sémantiku, ktoré zlepšujú výkonnosť, a nie úpravami správania regulárnych výrazov. \cite{Wang2019}
+V jednom hlásení o chybe sa všetky zachytávajúce skupiny regulárnych výrazov zmenili na nezachytávajúce skupiny (napr. (\ r \ n| \ r| \ n| \ f) na ( \ r \ n| \ r| \ n| \ f)), aby sa zabránilo spätnému sledovaniu a rozsah regulárneho výrazu sa mutáciou nezmenil. V inom príklade je regulárny výraz (\ W|\ \ \ d|-) zmenený na [\wedge R-Za-z] kvôli lepšej čitateľnosti regulárneho výrazu. (Na vysvetlenie, \ \ W je ekvivalentné negovanej triede znakov [\wedge R-Za-z-0-9] a \ \ d je ekvivalentné [0-9]; takže [0-9] je platné v požadovanej triede znakov; podobne sa zaobchádza aj s podčiarkovníkom). \cite{Wang2019}
+Tie poskytujú dôkaz, že nie všetky úpravy menia správanie, a teda nie všetky snahy o testovanie by sa mali zamerať na zhodu správania [6], ale skôr na výkon a zrozumiteľnosť.
 
-
+\section{}
+Pre regulárne výrazy \cite{} existujú nástroje na generovanie testov regulárnych výrazov. Tieto nástroje vymenúvajú členy jazyka regulárnych výrazov, ale nevypočítavajú nezhodujúce sa reťazce. Nedávne výskumné úsilie skúmalo prístup založený na chybách pri generovaní testov regulárnych výrazov prostredníctvom testovania mutácií \cite{}; do regulárnych výrazov sa vnášajú chyby a generujú sa reťazce, ktoré sú svedkami chyby, čím sa poskytujú príklady nezhodného správania pôvodného regulárneho výrazu. Hoci je testovanie mutáciou zrelou oblasťou výskumu, na mutáciu regulárnych výrazov sa zamerali nedávno \cite{}. Tieto snahy však definovali operátory mutácie ad hoc spôsobom, bez toho, aby zohľadnili, ako sa regulárne výrazy v praxi skutočne vyvíjajú. Preto injektované chyby nemusia byť reprezentatívne pre skutočné úpravy.
 
 \section{Záver} \label{zaver} % prípadne iný variant názvu
-
 
 
 %\acknowledgement{Ak niekomu chcete poďakovať\ldots}
