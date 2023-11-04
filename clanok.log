@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.10.26)  2 NOV 2023 15:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.10.7)  4 NOV 2023 21:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**f:/Projects/MipProject/clanok.tex
-(f:/Projects/MipProject/clanok.tex
+**d:/Projects/MipProject/clanok.tex
+(d:/Projects/MipProject/clanok.tex
 LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-10-10>
-(C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+L3 programming layer <2023-08-29>
+(C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
-(C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+(C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
 File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
@@ -23,117 +23,117 @@ File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+) (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2023/09/29 v3.95 The Babel package
 \babel@savecnt=\count193
 \U@D=\dimen141
 \l@unhyphenated=\language79
- (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+ (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count194
 
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+(C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
-) (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/latex/babel-slovak\slovak.ldf
+) (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/babel-slovak\slovak.ldf
 Language: slovak 2008/07/06 v3.1a Slovak support from the babel system
 Package babel Info: Making ^ an active character on input line 123.
 Package babel Info: Making " an active character on input line 126.
 Package babel Info: Making ' an active character on input line 129.
 \cs@wordlen=\count195
 Package babel Info: Making - an active character on input line 294.
-)) (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/sk\babel-slovak.tex
+)) (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/sk\babel-slovak.tex
 Package babel Info: Importing font and identification data for slovak
 (babel)             from babel-sk.ini. Reported on input line 11.
-) (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+) (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
- (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/cslatex/base\il2enc.def
+ (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/cslatex/base\il2enc.def
 File: il2enc.def 1997/08/20 CSLaTeX
 Now handling font encoding IL2 ...
 ... no UTF-8 mapping file for font encoding IL2
 )
 LaTeX Font Info:    Trying to load font information for IL2+cmr on input line 112.
- (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/cslatex/base\il2cmr.fd
+ (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/cslatex/base\il2cmr.fd
 File: il2cmr.fd 1997/02/06 CSLaTeX font definitions
-)) (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+)) (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
-) (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+) (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+ (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
-) (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+) (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+ (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+) (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
- (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+ (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen142
 \Gin@req@width=\dimen143
-) (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+) (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-) (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+) (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
- (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+ (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+) (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
-) (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+) (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+ (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-) (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+) (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-) (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+) (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+) (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+) (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
+) (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-) (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+) (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-) (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+) (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2023-08-07 v2.53 Cross-referencing by name of section
- (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+ (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+) (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
- (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+ (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count196
-) (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+) (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count197
 )
 \@linkdim=\dimen144
 \Hy@linkcounter=\count198
 \Hy@pagecounter=\count199
- (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+ (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count266
- (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+ (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -148,9 +148,9 @@ Package hyperref Info: Bookmarks ON on input line 4434.
 \c@Hy@tempcnt=\count267
 LaTeX Info: Redefining \url on input line 4772.
 \XeTeXLinkMargin=\dimen145
- (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+ (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
- (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+ (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count268
@@ -163,7 +163,7 @@ Package hyperref Info: backreferencing OFF on input line 6066.
 Package hyperref Info: Link coloring OFF on input line 6071.
 Package hyperref Info: Link coloring with OCG OFF on input line 6076.
 Package hyperref Info: PDF/A mode OFF on input line 6081.
- (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+ (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
@@ -172,337 +172,365 @@ package with kernel methods
 \c@Hfootnote=\count271
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
- (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+ (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2023-07-08 v7.01b Hyperref driver for pdfTeX
- (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+ (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
 \Fld@listcount=\count272
 \c@bookmark@seq@number=\count273
- (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+ (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
- (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+ (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
 \Hy@SectionHShift=\skip50
-) (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/latex/cite\cite.sty
+) (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/cite\cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
-) (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2023-10-10 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count274
-\l__pdf_internal_box=\box51
-) (clanok.aux)
+) (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count274
+\lst@gtempboxa=\box51
+\lst@token=\toks20
+\lst@length=\count275
+\lst@currlwidth=\dimen148
+\lst@column=\count276
+\lst@pos=\count277
+\lst@lostspace=\dimen149
+\lst@width=\dimen150
+\lst@newlines=\count278
+\lst@lineno=\count279
+\lst@maxwidth=\dimen151
+ (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count280
+\lst@skipnumbers=\count281
+\lst@framebox=\box52
+) (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+ (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count282
+\l__pdf_internal_box=\box53
+) (clanok.aux
+
+LaTeX Warning: Label `code:example' multiply defined.
+
+
+LaTeX Warning: Label `code:example' multiply defined.
+
+
+LaTeX Warning: Label `code:example' multiply defined.
+
+
+LaTeX Warning: Label `code:example' multiply defined.
+
+
+LaTeX Warning: Label `code:example' multiply defined.
+
+
+LaTeX Warning: Label `code:example' multiply defined.
+
+
+LaTeX Warning: Label `code:example' multiply defined.
+
+
+LaTeX Warning: Label `code:example' multiply defined.
+
+
+LaTeX Warning: Label `code:example' multiply defined.
+
+
+LaTeX Warning: Label `code:example' multiply defined.
+
+
+LaTeX Warning: Label `code:example' multiply defined.
+
+
+LaTeX Warning: Label `code:example' multiply defined.
+
+
+LaTeX Warning: Label `code:example' multiply defined.
+
+)
 \openout1 = `clanok.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for IL2/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
- (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for IL2/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+ (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count275
-\scratchdimen=\dimen148
-\scratchbox=\box52
-\nofMPsegments=\count276
-\nofMParguments=\count277
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count278
-\MPscratchDim=\dimen149
-\MPnumerator=\count279
-\makeMPintoPDFobject=\count280
-\everyMPtoPDFconversion=\toks21
-) (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+\scratchcounter=\count283
+\scratchdimen=\dimen152
+\scratchbox=\box54
+\nofMPsegments=\count284
+\nofMParguments=\count285
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count286
+\MPscratchDim=\dimen153
+\MPnumerator=\count287
+\makeMPintoPDFobject=\count288
+\everyMPtoPDFconversion=\toks22
+) (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+ (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 29.
+Package hyperref Info: Link coloring OFF on input line 23.
+ (clanok.out) (clanok.out)
 \@outlinefile=\write3
 \openout3 = `clanok.out'.
 
+\c@lstlisting=\count289
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 32.
+(Font)              <17.28> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 32.
+(Font)              <12> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 32.
+(Font)              <8> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 32.
-LaTeX Font Info:    Trying to load font information for IL2+cmtt on input line 32.
- (C:\Users\AlabinHacker\AppData\Local\Programs\MiKTeX\tex/cslatex/base\il2cmtt.fd
+(Font)              <6> on input line 25.
+LaTeX Font Info:    Trying to load font information for IL2+cmtt on input line 25.
+ (C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/cslatex/base\il2cmtt.fd
 File: il2cmtt.fd 1997/08/20 CSLaTeX font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 32.
+(Font)              <5> on input line 25.
 
+Underfull \hbox (badness 10000) in paragraph at lines 33--37
 
-LaTeX Warning: Citation `Chapman2017' on page 1 undefined on input line 51.
-
-
-LaTeX Warning: Citation `Michael2019' on page 1 undefined on input line 52.
-
-
-LaTeX Warning: Citation `Chapman2016' on page 1 undefined on input line 53.
-
-
-LaTeX Warning: Citation `Chapman2017' on page 1 undefined on input line 53.
-
-
-LaTeX Warning: Citation `Wang2019' on page 1 undefined on input line 54.
-
-
-LaTeX Warning: Citation `Wang2018' on page 1 undefined on input line 55.
-
-
-LaTeX Warning: Citation `Wang2019' on page 1 undefined on input line 55.
+ []
 
 [1
 
-{C:/Users/AlabinHacker/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+{C:/Users/alabi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 45--52
 
-LaTeX Warning: Citation `Wang2019' on page 2 undefined on input line 69.
+ []
 
-f:/Projects/MipProject/clanok.tex:70: Missing $ inserted.
-<inserted text> 
-                $
-l.70 ...v√Ωraz (\ W|\ \ \ d|-) zmenen√Ω na [\wedge
-                                                   R-Za-z] kv√¥li lep≈°ej ƒç...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
 
+Underfull \hbox (badness 10000) in paragraph at lines 45--52
+
+ []
+
+<obrazok1.png, id=132, 823.075pt x 454.69875pt>
+File: obrazok1.png Graphic file (type png)
+<use obrazok1.png>
+Package pdftex.def Info: obrazok1.png  used on input line 57.
+(pdftex.def)             Requested size: 172.5pt x 95.29527pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--62
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 64.
+(C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
+File: omscmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 64.
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--68
+
+ []
+
+[2] [3 <./obrazok1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 92--94
+
+ []
+
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 101.
+(C:\Users\alabi\AppData\Local\Programs\MiKTeX\tex/latex/base\omlcmr.fd
+File: omlcmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 101.
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--111
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--116
+
+ []
+
+[4] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
+
+ []
+
+<Table I.png, id=201, 823.075pt x 327.2225pt>
+File: Table I.png Graphic file (type png)
+<use Table I.png>
+Package pdftex.def Info: Table I.png  used on input line 195.
+(pdftex.def)             Requested size: 172.5pt x 68.57893pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[6]
+File: obrazok1.png Graphic file (type png)
+<use obrazok1.png>
+Package pdftex.def Info: obrazok1.png  used on input line 207.
+(pdftex.def)             Requested size: 172.5pt x 95.29527pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--211
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--211
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (1.36182pt too wide) in paragraph at lines 212--214
+\IL2/cmr/m/n/10 prÌ-klad vzhµa-dom na vzor (q4fab \OMS/cmsy/m/n/10 j\IL2/cmr/m/n/10 ab) z na-πej πt˙-die sa re-ªa-zec "xyzq4fab"zhoduje
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--214
+
+ []
+
+[7 <./Table I.png>]
+<table2.png, id=238, 552.0625pt x 283.0575pt>
+File: table2.png Graphic file (type png)
+<use table2.png>
+Package pdftex.def Info: table2.png  used on input line 227.
+(pdftex.def)             Requested size: 172.5pt x 88.44661pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--232
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--240
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--240
+
+ []
+
+[9 <./table2.png>]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 70.
+(Font)              <7> on input line 241.
 
-LaTeX Warning: Command \^ invalid in math mode on input line 70.
+Underfull \hbox (badness 10000) in paragraph at lines 241--243
 
-
-LaTeX Warning: Command \v invalid in math mode on input line 70.
-
-
-LaTeX Warning: Command \v invalid in math mode on input line 70.
-
-
-LaTeX Warning: Command \v invalid in math mode on input line 70.
-
-
-LaTeX Warning: Command \' invalid in math mode on input line 70.
-
-
-LaTeX Warning: Command \' invalid in math mode on input line 70.
-
-
-LaTeX Warning: Command \' invalid in math mode on input line 70.
-
-
-LaTeX Warning: Command \' invalid in math mode on input line 70.
-
-
-LaTeX Warning: Command \v invalid in math mode on input line 70.
-
-
-LaTeX Warning: Command \' invalid in math mode on input line 70.
-
-
-LaTeX Warning: Command \v invalid in math mode on input line 70.
-
-
-LaTeX Warning: Command \' invalid in math mode on input line 70.
-
-
-LaTeX Warning: Command \v invalid in math mode on input line 70.
-
-
-LaTeX Warning: Command \' invalid in math mode on input line 70.
-
-f:/Projects/MipProject/clanok.tex:70: You can't use `\spacefactor' in math mode.
-\cite@adjust ... \@tempa \@zero@skip \spacefactor 
-                                                  1001 \fi \ifnum \spacefact...
-l.70 ...a aj s podƒçiarkovn√≠kom). \cite{Wang2019}
-                                                  
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-f:/Projects/MipProject/clanok.tex:70: Improper \spacefactor.
-\cite@adjust ...ctor 1001 \fi \ifnum \spacefactor 
-                                                  >\@m \ \else \hskip \@temp...
-l.70 ...a aj s podƒçiarkovn√≠kom). \cite{Wang2019}
-                                                  
-You can refer to \spacefactor only in horizontal mode;
-you can refer to \prevdepth only in vertical mode; and
-neither of these is meaningful inside \write. So
-I'm forgetting what you said and using zero instead.
-
-
-f:/Projects/MipProject/clanok.tex:70: LaTeX Error: Command \bfseries invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.70 ...a aj s podƒçiarkovn√≠kom). \cite{Wang2019}
-                                                  
-Please use the math alphabet \mathbf instead of the \bfseries command. 
-
-
-LaTeX Warning: Citation `Wang2019' on page 2 undefined on input line 70.
-
-f:/Projects/MipProject/clanok.tex:70: You can't use `\spacefactor' in math mode.
-\@cite ...ivesfalse \citemid {#2}\fi \spacefactor 
-                                                  \@m }\citeright \@restore@...
-l.70 ...a aj s podƒçiarkovn√≠kom). \cite{Wang2019}
-                                                  
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-LaTeX Warning: Command \' invalid in math mode on input line 71.
-
-
-LaTeX Warning: Command \^ invalid in math mode on input line 71.
-
-
-LaTeX Warning: Command \v invalid in math mode on input line 71.
-
-
-LaTeX Warning: Command \v invalid in math mode on input line 71.
-
-
-LaTeX Warning: Command \' invalid in math mode on input line 71.
-
-
-LaTeX Warning: Command \' invalid in math mode on input line 71.
-
-
-LaTeX Warning: Command \v invalid in math mode on input line 71.
-
-
-LaTeX Warning: Command \v invalid in math mode on input line 71.
-
-
-LaTeX Warning: Command \' invalid in math mode on input line 71.
-
-
-LaTeX Warning: Command \^ invalid in math mode on input line 71.
-
-
-LaTeX Warning: Command \' invalid in math mode on input line 71.
-
-
-LaTeX Warning: Command \v invalid in math mode on input line 71.
-
-
-LaTeX Warning: Command \v invalid in math mode on input line 71.
-
-f:/Projects/MipProject/clanok.tex:72: Missing $ inserted.
-<inserted text> 
-                $
-l.72 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-Missing character: There is no Ù in font cmr10!
-Missing character: There is no π in font cmr10!
-Missing character: There is no Ë in font cmr10!
-Missing character: There is no µ in font cmr10!
-Missing character: There is no · in font cmr10!
-Missing character: There is no ˝ in font cmr10!
-Missing character: There is no È in font cmr10!
-Missing character: There is no È in font cmr10!
-Missing character: There is no æ in font cmr10!
-Missing character: There is no È in font cmr10!
-Missing character: There is no æ in font cmr10!
-Missing character: There is no · in font cmr10!
-Missing character: There is no Ë in font cmr10!
-Missing character: There is no Ì in font cmr10!
-Missing character: There is no Ë in font cmex10!
-Missing character: There is no ˙ in font cmr10!
-Missing character: There is no Ù in font cmr10!
-Missing character: There is no æ in font cmr10!
-Missing character: There is no π in font cmr10!
-Missing character: There is no ˙ in font cmr10!
-Missing character: There is no · in font cmr10!
-Missing character: There is no π in font cmr10!
-Missing character: There is no ª in font cmr10!
-Missing character: There is no · in font cmr10!
-Missing character: There is no Ù in font cmr10!
-Missing character: There is no ˝ in font cmr10!
-Missing character: There is no µ in font cmr10!
-Missing character: There is no ª in font cmr10!
-
-Overfull \hbox (104.44223pt too wide) in paragraph at lines 67--72
-\OML/cmm/m/it/10 z\OT1/cmr/m/n/10 ]\OML/cmm/m/it/10 kvlilepejitatenostiregulrnehovrazu:\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Navysvetlenie;   Wjeekvivalentnnegovanejtriedeznakov\OT1/cmr/m/n/10 [\OMS/cmsy/m/n/10 ^\OML/cmm/m/it/10 R \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (187.3379pt too wide) in paragraph at lines 67--72
-\OML/cmm/m/it/10 Za \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 z \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 0 \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 9]\OML/cmm/m/it/10 a  djeekvivalentn\OT1/cmr/m/n/10 [0 \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 9]; \OML/cmm/m/it/10 take\OT1/cmr/m/n/10 [0 \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 9]\OML/cmm/m/it/10 jeplatnvpoadovanejtriedeznakov\OT1/cmr/m/n/10 ; \OML/cmm/m/it/10 podobnesazaobchdzaajspodiarkovnkom\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 :
+Underfull \hbox (badness 10000) in paragraph at lines 241--243
+
+ []
+
+<table3.png, id=268, 552.0625pt x 493.845pt>
+File: table3.png Graphic file (type png)
+<use table3.png>
+Package pdftex.def Info: table3.png  used on input line 247.
+(pdftex.def)             Requested size: 345.0pt x 308.62975pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--253
+
  []
 
 
-Overfull \hbox (343.476pt too wide) in paragraph at lines 67--72
-\OT1/cmr/m/n/10 1001[[]]\OML/cmm/m/it/10 Tieposkytujdkaz; enievetkypravymeniasprvanie; atedanievetkysnahyotestovaniebysamalizameranazhodusprvania\OT1/cmr/m/n/10 [6]\OML/cmm/m/it/10 ; aleskrnavkonazrozumitenos:$ 
+Underfull \hbox (badness 10000) in paragraph at lines 244--253
+
  []
 
-(clanok.bbl [2]) [3] (clanok.aux)
+[10] [11 <./table3.png>] (clanok.bbl [12]) [13] (clanok.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-10-10>
+L3 programming layer <2023-08-29>
  ***********
 
 
-LaTeX Warning: There were undefined references.
+LaTeX Warning: There were multiply-defined labels.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `clanok.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `clanok.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  15CCD0DCD0828964E29E263B8B2B6DEB;387.
+Package rerunfilecheck Info: File `clanok.out' has not changed.
+(rerunfilecheck)             Checksum: 6BB0E1942D64C0562546D3480BD7832B;3301.
  ) 
 Here is how much of TeX's memory you used:
- 10089 strings out of 474824
- 160682 string characters out of 5747672
- 1933043 words of memory out of 5000000
- 31895 multiletter control sequences out of 15000+600000
- 569631 words of font info for 63 fonts, out of 8000000 for 9000
+ 11921 strings out of 475248
+ 184809 string characters out of 5757813
+ 1942785 words of memory out of 5000000
+ 33212 multiletter control sequences out of 15000+600000
+ 570838 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,7n,79p,958b,615s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\AlabinHacker\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csti10.pk> <C:\Users\AlabinHacker\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cssl10.pk> <C:\Users\AlabinHacker\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr8.pk> <C:\Users\AlabinHacker\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\AlabinHacker\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx10.pk> <C:\Users\AlabinHacker\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr10.pk> <C:\Users\AlabinHacker\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi720\csbx12.pk> <C:\Users\AlabinHacker\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx9.pk> <C:\Users\AlabinHacker\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt9.pk> <C:\Users\AlabinHacker\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr9.pk> <C:\Users\AlabinHacker\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr12.pk> <C:\Users\AlabinHacker\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\AlabinHacker\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr17.pk><C:/Users/AlabinHacker/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/AlabinHacker/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/AlabinHacker/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on clanok.pdf (3 pages, 158802 bytes).
+ 75i,7n,79p,1303b,1084s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\alabi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csti10.pk> <C:\Users\alabi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\alabi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx12.pk> <C:\Users\alabi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cssl10.pk> <C:\Users\alabi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr8.pk> <C:\Users\alabi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\alabi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx10.pk> <C:\Users\alabi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr10.pk> <C:\Users\alabi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi720\csbx12.pk> <C:\Users\alabi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx9.pk> <C:\Users\alabi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt9.pk> <C:\Users\alabi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr9.pk> <C:\Users\alabi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr12.pk> <C:\Users\alabi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\alabi\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr17.pk><C:/Users/alabi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/alabi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on clanok.pdf (13 pages, 638490 bytes).
 PDF statistics:
- 421 PDF objects out of 1000 (max. 8388607)
- 20 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 899 PDF objects out of 1000 (max. 8388607)
+ 90 named destinations out of 1000 (max. 500000)
+ 213 words of extra memory for PDF output out of 10000 (max. 10000000)
 

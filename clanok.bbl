@@ -1,5 +1,18 @@
 \begin{thebibliography}{1}
 
+\bibitem{7899040}
+Paolo Arcaini, Angelo Gargantini, and Elvinia Riccobene.
+\newblock Mutrex: A mutation-based generator of fault detecting strings for
+  regular expressions.
+\newblock In {\em 2017 IEEE International Conference on Software Testing,
+  Verification and Validation Workshops (ICSTW)}, pages 87--96, 2017.
+
+\bibitem{7374717}
+Alberto Bartoli, Andrea De~Lorenzo, Eric Medvet, and Fabiano Tarlao.
+\newblock Inference of regular expressions for text extraction from examples.
+\newblock {\em IEEE Transactions on Knowledge and Data Engineering},
+  28(5):1217--1230, 2016.
+
 \bibitem{Chapman2016}
 Carl Chapman and Kathryn~T. Stolee.
 \newblock Exploring regular expression usage and context in python.
@@ -19,6 +32,12 @@ Louis~G. Michael, James Donohue, James~C. Davis, Dongyoon Lee, and Francisco
   programming regular expressions.
 \newblock In {\em 2019 34th {IEEE}/{ACM} International Conference on Automated
   Software Engineering ({ASE})}. {IEEE}, November 2019.
+
+\bibitem{5477051}
+Margus Veanes, Peli de~Halleux, and Nikolai Tillmann.
+\newblock Rex: Symbolic regular expression explorer.
+\newblock In {\em 2010 Third International Conference on Software Testing,
+  Verification and Validation}, pages 498--507, 2010.
 
 \bibitem{Wang2019}
 Peipei Wang, Gina~R. Bai, and Kathryn~T. Stolee.
